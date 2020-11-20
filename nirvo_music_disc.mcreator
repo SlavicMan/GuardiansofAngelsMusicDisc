@@ -1,0 +1,111 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Config",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "config"
+    },
+    {
+      "name": "GuardiansOfAngels",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guardians_of_angels"
+    },
+    {
+      "name": "Configcmdexecuted",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "configcmdexecuted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Configcommand",
+      "type": "command",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "configcommand"
+    },
+    {
+      "name": "GOARecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goa_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "nirvo_guardiansofangels",
+      "files": [
+        "niviro-the-guardian-of-angels-_original-mix__mpgun.com_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.nirvo_music_disc.guardians_of_angels.desc": "NIRVO: Guardians of Angels",
+      "item.testmod.guardians_of_angels": "NIRVO: Guardians of Angels",
+      "item.nirvo_music_disc.guardians_of_angels": "NIRVO: Guardians of Angels",
+      "item.testmod.guardians_of_angels.desc": "NIRVO: Guardians of Angels",
+      "subtitles.nirvo_guardiansofangels": ""
+    }
+  },
+  "workspaceSettings": {
+    "modid": "nirvo_music_disc",
+    "modName": "Nirvo Guardians of Angels music disc",
+    "version": "1.0.0",
+    "author": "Atomiz",
+    "websiteURL": "slavicman.is-a.dev",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "io.github.slavicman",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547418
+}

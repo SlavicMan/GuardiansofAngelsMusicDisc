@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nirvodisc",
+    "name": "NIRVO: Guardians of Angels",
+    "description": "NIRVO: Guardians of Angels",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:nirvo_guardiansofangels"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

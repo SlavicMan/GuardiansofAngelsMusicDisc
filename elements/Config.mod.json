@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 252,
+    "height": 160,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Config",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Config",
+          "x": 194,
+          "y": 45
+        }
+      }
+    ]
+  }
+}

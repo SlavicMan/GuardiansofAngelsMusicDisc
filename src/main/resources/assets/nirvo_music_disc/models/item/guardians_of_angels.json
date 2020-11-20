@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nirvo_music_disc:items/nirvodisc"
+  }
+}

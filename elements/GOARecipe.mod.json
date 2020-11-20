@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "misc",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.RECORD_11"
+      },
+      {
+        "value": "Items.RECORD_CHIRP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GuardiansOfAngels"
+    },
+    "name": "goa_recipe",
+    "namespace": "mod"
+  }
+}
